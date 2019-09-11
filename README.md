@@ -1,0 +1,2 @@
+# Recursion
+This program was coded in C++. Main purpose of this program is to practice recursion. The program will receive an input from user which is for the array size. The program will generate an array size of the input received and display the array. Then it will display the inverse of the array using recursion. Then it will show square values of 1 through the first element of reversed array. At last it will do a prime check for all the values of the array.
